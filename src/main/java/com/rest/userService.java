@@ -12,6 +12,8 @@ import java.util.List;
 
 /**
  * RESTful resource representing the user table.
+ *
+ * @author EmileM
  */
 @Path("/user")
 public class userService {
